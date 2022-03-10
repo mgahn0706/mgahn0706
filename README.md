@@ -8,7 +8,7 @@
 </p>
    
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgahn0706&theme=white)](https://github.com/OseungKwon/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgahn0706&theme=white)](https://github.com/mgahn0706/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgahn0706&layout=compact&theme=white&langs_count=4)](https://github.com/mgahn0706/github-readme-stats)
 
